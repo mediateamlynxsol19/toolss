@@ -15,6 +15,14 @@
 
 ---
 
+# NeuroNest AI Development Assistant
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI development assistant built to help developers complete coding tasks with better speed, structure, and accuracy. It supports code writing, debugging, testing, security review, DevOps workflows, and technical research, making it a useful platform for teams building modern software with AI-powered support.
+
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## What is toolss™?
 
 A curated directory of AI and productivity tools that developers actually use. You'll find no sponsored placements - just The Best™ tools that are worth your time.
